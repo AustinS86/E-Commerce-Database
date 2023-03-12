@@ -63,7 +63,7 @@ To add a Front End application that can call to all API routes that were created
 
 ## Link to video
 
-[Walkthrough video](https://drive.google.com/file/d/1Eyx_1SOxmRUoDb4C0K85nIUjYYZ4rWbl/view)
+[Walkthrough video](https://drive.google.com/file/d/1iaArI9OV9ShutyZSY5b9P2RS-2hEj3r4/view)
 
 ## License
 
